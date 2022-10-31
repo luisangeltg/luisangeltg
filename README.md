@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luisangeltg
-- 👀 I’m interested in growth my skills with Flutter to develop multiplatform applications and learn python for the backend.
-- 🌱 I’m currently learning Flutter mobile, express, Django
-- 💞️ I’m looking to collaborate on Flutter mobile/web projects or TypeScript/Python backend projects
+- 👀 I’m interested in growth my skills with Angular, .Net Core and SwiftUI to develop applications that solve real life problems with good practices of code.
+- 🌱 I’m currently learning Angular web framework, .Net Core 6 for the backend and SwiftUI for mobile developing
+- 💞️ I’m looking to collaborate on Angular/web projects or TypeScript/.Net backend projects.
 - 📫 How to reach me: t.g.luisangel@gmail.com
 
 <!---
